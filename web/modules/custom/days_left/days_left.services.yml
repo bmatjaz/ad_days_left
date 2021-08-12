@@ -1,0 +1,3 @@
+services:
+  days_left.event_calculator:
+    class: Drupal\days_left\DaysCounter
